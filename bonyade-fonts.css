@@ -1,0 +1,89 @@
+/* 
+ * Bonyade Koodak FaNum Font Family
+ * Hosted on GitHub: https://github.com/pooyan-mokri/koodak
+ * Served via jsDelivr CDN for optimal performance
+ * 
+ * This font family includes 8 weights from Thin (100) to Black (900)
+ * Each weight maintains the same family name but different weight values
+ * for seamless usage in CSS font-weight declarations
+ */
+
+@font-face {
+    font-family: 'Bonyade Koodak FaNum';
+    font-style: normal;
+    font-weight: 100;  /* Thin weight */
+    font-display: swap;  /* Improves initial page load time */
+    src: local('Bonyade Koodak FaNum Thin'),
+         url('https://cdn.jsdelivr.net/gh/pooyan-mokri/koodak@main/woff2/BonyadeKoodakFaNum-Thin.woff2') format('woff2'),
+         url('https://cdn.jsdelivr.net/gh/pooyan-mokri/koodak@main/woff/BonyadeKoodakFaNum-Thin.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'Bonyade Koodak FaNum';
+    font-style: normal;
+    font-weight: 200;  /* ExtraLight weight */
+    font-display: swap;
+    src: local('Bonyade Koodak FaNum ExtraLight'),
+         url('https://cdn.jsdelivr.net/gh/pooyan-mokri/koodak@main/woff2/BonyadeKoodakFaNum-ExtraLight.woff2') format('woff2'),
+         url('https://cdn.jsdelivr.net/gh/pooyan-mokri/koodak@main/woff/BonyadeKoodakFaNum-ExtraLight.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'Bonyade Koodak FaNum';
+    font-style: normal;
+    font-weight: 300;  /* Light weight */
+    font-display: swap;
+    src: local('Bonyade Koodak FaNum Light'),
+         url('https://cdn.jsdelivr.net/gh/pooyan-mokri/koodak@main/woff2/BonyadeKoodakFaNum-Light.woff2') format('woff2'),
+         url('https://cdn.jsdelivr.net/gh/pooyan-mokri/koodak@main/woff/BonyadeKoodakFaNum-Light.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'Bonyade Koodak FaNum';
+    font-style: normal;
+    font-weight: normal;  /* Regular weight (400) */
+    font-display: swap;
+    src: local('Bonyade Koodak FaNum Regular'),
+         url('https://cdn.jsdelivr.net/gh/pooyan-mokri/koodak@main/woff2/BonyadeKoodakFaNum-Regular.woff2') format('woff2'),
+         url('https://cdn.jsdelivr.net/gh/pooyan-mokri/koodak@main/woff/BonyadeKoodakFaNum-Regular.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'Bonyade Koodak FaNum';
+    font-style: normal;
+    font-weight: 500;  /* Medium weight */
+    font-display: swap;
+    src: local('Bonyade Koodak FaNum Medium'),
+         url('https://cdn.jsdelivr.net/gh/pooyan-mokri/koodak@main/woff2/BonyadeKoodakFaNum-Medium.woff2') format('woff2'),
+         url('https://cdn.jsdelivr.net/gh/pooyan-mokri/koodak@main/woff/BonyadeKoodakFaNum-Medium.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'Bonyade Koodak FaNum';
+    font-style: normal;
+    font-weight: bold;  /* Bold weight (700) */
+    font-display: swap;
+    src: local('Bonyade Koodak FaNum Bold'),
+         url('https://cdn.jsdelivr.net/gh/pooyan-mokri/koodak@main/woff2/BonyadeKoodakFaNum-Bold.woff2') format('woff2'),
+         url('https://cdn.jsdelivr.net/gh/pooyan-mokri/koodak@main/woff/BonyadeKoodakFaNum-Bold.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'Bonyade Koodak FaNum';
+    font-style: normal;
+    font-weight: 800;  /* ExtraBold weight */
+    font-display: swap;
+    src: local('Bonyade Koodak FaNum ExtraBold'),
+         url('https://cdn.jsdelivr.net/gh/pooyan-mokri/koodak@main/woff2/BonyadeKoodakFaNum-ExtraBold.woff2') format('woff2'),
+         url('https://cdn.jsdelivr.net/gh/pooyan-mokri/koodak@main/woff/BonyadeKoodakFaNum-ExtraBold.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'Bonyade Koodak FaNum';
+    font-style: normal;
+    font-weight: 900;  /* Black weight */
+    font-display: swap;
+    src: local('Bonyade Koodak FaNum Black'),
+         url('https://cdn.jsdelivr.net/gh/pooyan-mokri/koodak@main/woff2/BonyadeKoodakFaNum-Black.woff2') format('woff2'),
+         url('https://cdn.jsdelivr.net/gh/pooyan-mokri/koodak@main/woff/BonyadeKoodakFaNum-Black.woff') format('woff');
+}
